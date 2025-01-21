@@ -35,7 +35,7 @@ public class Principal {
     @Autowired
     private ConvierteDatos convierteDatos;
 
-    private static final String BASE_URL = "https://qutendex.com/books/";
+    private static final String BASE_URL = "https://gutendex.com/books/";
 
     public void mostrarMenu() {
         Scanner scanner = new Scanner(System.in);
